@@ -11,6 +11,7 @@
 	  <PackageReleaseNotes>https://github.com/microsoft/RulesEngine/blob/main/CHANGELOG.md</PackageReleaseNotes>
 	  <PackageTags>BRE, Rules Engine, Abstraction</PackageTags>
     <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageId>RTR_RulesEngine</PackageId>
   </PropertyGroup>
 
   <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
